@@ -40,7 +40,7 @@ Web上で動くじゃんけんゲームです。
 　　　> [▲ トップへ戻る](#top)
 
 ## 実行イメージ<br>
-!["jankengame"](images/video-ezgif.com-optimize (1).gif) <br>
+ !["jankengame"](images/video-ezgif.com-optimize (1).gif) <br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
