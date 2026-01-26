@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+	background-color: aquamarine;
+	width: 500px;
+	margin:0 auto;
+}
+h1{
+	color:darkslateblue;
+	border-bottom: 10px dotted #FFF;
+}
+input[type="submit"]{
+	background-color:bisque;
+	width: 100px;
+	text-align: center;
+}
+
+h2{
+	color:darkslateblue;
+}
+
+.form{
+	display: flex;
+}
+
+
+.battle{
+	margin-left: 50px;
+}
+.battle input[type="submit"]{
+	padding:20px;
+}
