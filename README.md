@@ -49,7 +49,8 @@ Web上で動くじゃんけんゲームです。<br>
 　　　> [▲ トップへ戻る](#top)
 
 ## 実行イメージ<br>
- !["jankengame"](images/jankengame.gif) <br>
+※実行イメージは、作成途中です。
+ !["jankengame"](images/.gif) <br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
